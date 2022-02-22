@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employee status="ok">
+<record empno="1">
+<name>vishal sharma</name>
+<dept>Electrical</dept>
+</record>
+<record empno="2">
+<name>virat kohli</name>
+<dept>IT</dept>
+</record>
+</employee>

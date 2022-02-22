@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+<book id="1">
+<author>vishnu sharma</author>
+<title>Rich Dad Poor Dad</title>
+<price>1000</price>
+<publication>Ahmedabad</publication>
+</book>
+<book id="2">
+<author>shivam dubey</author>
+<title>business analogy</title>
+<price>999</price>
+<publication>technical</publication>
+</book>
+<book id="3">
+<author>john doe</author>
+<title>depth in stock market</title>
+<price>599</price>
+<publication>gandhinagar</publication>
+</book>
+</bookstore>
